@@ -36,4 +36,4 @@ client.on('message', message =>{
 });
 
 
-client.login('NzQ3NjY5NjgyNjQyODc4NTA1.X0SPpw.VzAvWUXDKagPduLEfzMJU1scE28');
+client.login('Bot Code');
