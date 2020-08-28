@@ -31,7 +31,15 @@ client.on('message', message =>{
         client.commands.get('youtube').execute(message,args);
     }else if (command == 'website'){
         client.commands.get('website').execute(message,args);
-    
+    }else if (command == 'cows'){
+        client.commands.get('cows').execute(message,args);
+    }else if (command == 'help'){
+        client.commands.get('help').execute(message,args);
+    }else if (command == 'pong'){
+        client.commands.get('pong').execute(message,args);
+
+
+
 }
 
 
